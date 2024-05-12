@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\KampIntro\ödev\bin\Debug\ödev.exe.config
+C:\Users\lenovo\source\repos\KampIntro\ödev\bin\Debug\ödev.exe
+C:\Users\lenovo\source\repos\KampIntro\ödev\bin\Debug\ödev.pdb
+C:\Users\lenovo\source\repos\KampIntro\ödev\obj\Debug\ödev.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\KampIntro\ödev\obj\Debug\ödev.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\KampIntro\ödev\obj\Debug\ödev.exe
+C:\Users\lenovo\source\repos\KampIntro\ödev\obj\Debug\ödev.pdb

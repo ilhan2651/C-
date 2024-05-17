@@ -1,0 +1,9 @@
+C:\Users\lenovo\source\repos\ReCapProject\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\lenovo\source\repos\ReCapProject\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\lenovo\source\repos\ReCapProject\DataAccess\bin\Debug\Entities.dll
+C:\Users\lenovo\source\repos\ReCapProject\DataAccess\bin\Debug\Entities.pdb
+C:\Users\lenovo\source\repos\ReCapProject\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\ReCapProject\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\ReCapProject\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\lenovo\source\repos\ReCapProject\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\lenovo\source\repos\ReCapProject\DataAccess\obj\Debug\DataAccess.pdb

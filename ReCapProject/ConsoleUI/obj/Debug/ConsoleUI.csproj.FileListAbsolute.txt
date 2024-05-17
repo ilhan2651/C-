@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\ReCapProject\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\lenovo\source\repos\ReCapProject\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\lenovo\source\repos\ReCapProject\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\lenovo\source\repos\ReCapProject\ConsoleUI\bin\Debug\Business.dll
+C:\Users\lenovo\source\repos\ReCapProject\ConsoleUI\bin\Debug\DataAccess.dll
+C:\Users\lenovo\source\repos\ReCapProject\ConsoleUI\bin\Debug\Entities.dll
+C:\Users\lenovo\source\repos\ReCapProject\ConsoleUI\bin\Debug\Business.pdb
+C:\Users\lenovo\source\repos\ReCapProject\ConsoleUI\bin\Debug\DataAccess.pdb
+C:\Users\lenovo\source\repos\ReCapProject\ConsoleUI\bin\Debug\Entities.pdb
+C:\Users\lenovo\source\repos\ReCapProject\ConsoleUI\obj\Debug\ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\ReCapProject\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\ReCapProject\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\lenovo\source\repos\ReCapProject\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\lenovo\source\repos\ReCapProject\ConsoleUI\obj\Debug\ConsoleUI.pdb
